@@ -2,4 +2,7 @@ node_modules
 dist
 .tmp
 .sass-cache
+<<<<<<< HEAD
 //bower_components
+=======
+>>>>>>> 4c980c516a30a0e90e55341f1ced9d6529fa080b
